@@ -1,0 +1,21 @@
+/**{
+    margin :0px;
+    padding : 0px;
+}*/
+body{
+    padding-top: 3.2em;
+}
+h5{
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: crimson;
+}
+.loginBtn{
+
+}
+footer{
+    text-align: center;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
